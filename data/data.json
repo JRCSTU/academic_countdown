@@ -224,15 +224,15 @@
   {
     "venue": "NeurIPS",
     "area": "Machine Learning",
-    "abstract_deadline": "05/5/2020 13:00 UTC-7",
-    "deadline": "05/12/2020 13:00 UTC-7",
+    "abstract_deadline": "05/16/2022 13:00 PDT",
+    "deadline": "05/19/2022 13:00 PDT",
     "conference_dates": {
-      "start": "12/6/2020",
-      "end": "12/12/2020"
+      "start": "11/28/2022",
+      "end": "12/09/2022"
     },
-    "notification": "09/04/2019",
+    "notification": "09/14/2022",
     "link": "https://nips.cc/",
-    "location": "Vancouver CANADA"
+    "location": "New Orleans"
   },
   {
     "venue": "SDM",
