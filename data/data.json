@@ -128,15 +128,15 @@
     "venue": "ICDM",
     "venue_long": "IEEE International Conference on Data Mining",
     "area": "Data Mining",
-    "deadline": "06/11/2021 23:59 GMT-8",
+    "deadline": "06/10/2022 23:59 PDT",
     "conference_dates": {
-      "start": "12/07/2021",
-      "end": "12/10/2021"
+      "start": "11/30/2022",
+      "end": "12/03/2022"
     },
-    "notification": "08/31/2021 23:59 GMT-8",
-    "camera_ready": "10/01/2021 23:59 GMT-8",
-    "link": "https://icdm2021.auckland.ac.nz/",
-    "location": "Auckland, New Zealand",
+    "notification": "08/31/2022 23:59 PDT",
+    "camera_ready": "10/01/2022 23:59 PDT",
+    "link": "http://icdm.zhonghuapu.com/",
+    "location": "Orlando, FL, USA",
     "format": "10 pages, IEEE 2-column format, inc. bibliography and appendices"
   },
   {
