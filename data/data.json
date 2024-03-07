@@ -204,22 +204,22 @@
     "venue_long": "Machine Learning for Healthcare",
     "link": "https://www.mlforhc.org/",
     "location": "Virtual and Hybrid",
-    "deadline": "3/19/2021 17:00 EDT",
+    "deadline": "4/9/2024 17:00 EDT",
     "conference_dates": {
-      "start": "08/06/2021",
-      "end": "08/7/2021"
+      "start": "08/16/2024",
+      "end": "08/17/2024"
     }
   },
   {
     "venue": "MLSP",
     "venue_long": "International Workshop on Machine Learning for Signal Processing",
-    "deadline": "04/14/2022 23:59:59 PST",
+    "deadline": "04/30/2024 23:59:59 PST",
     "conference_dates": {
-      "start": "08/22/2022",
-      "end": "08/25/2022"
+      "start": "09/22/2024",
+      "end": "09/25/2024"
     },
-    "link": "https://www.ieeemlsp.cc/",
-    "location": "Xi'an, China"
+    "link": "https://2024.ieeemlsp.org/",
+    "location": "London, UK"
   },
   {
     "venue": "NeurIPS",
