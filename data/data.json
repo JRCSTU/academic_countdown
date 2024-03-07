@@ -21,14 +21,14 @@
   {
     "venue": "AISTATS",
     "area": "Machine Learning",
-    "abstract_deadline": "10/08/2020 08:00 UTC-7",
-    "deadline": "10/15/2020 08:00 UTC-7",
+    "abstract_deadline": "10/06/2023 08:00 UTC-7",
+    "deadline": "10/15/2023 08:00 UTC-7",
     "conference_dates": {
-      "start": "04/13/2021",
-      "end": "04/15/2021"
+      "start": "05/2/2024",
+      "end": "05/4/2024"
     },
     "link": "http://www.aistats.org",
-    "location": "San Diego, California, USA"
+    "location": "Valencia, Spain"
   },
   {
     "venue": "CIKM",
