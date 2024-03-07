@@ -143,22 +143,21 @@
     "venue": "ICLR",
     "venue_long": "International Conference on Learning Representations",
     "area": "Deep Learning",
-    "abstract_deadline": "09/28/2020 08:00 UTC-7",
-    "deadline": "10/02/2020 08:00 UTC-7",
+    "abstract_deadline": "9/23/2024 08:00 UTC-7",
+    "deadline": "9/28/2024 08:00 UTC-7",
     "link": "http://www.iclr.cc/",
     "location": "Vienna, Austria"
   },
   {
     "venue": "ICML",
     "area": "Machine Learning",
-    "abstract_deadline": "01/28/2021 23:59 UTC-12",
-    "deadline": "2/04/2021 23:59 UTC-12",
+    "deadline": "2/1/2024 23:59 UTC-12",
     "conference_dates": {
-      "start": "07/18/2021",
-      "end": "07/24/2021"
+      "start": "07/21/2024",
+      "end": "07/27/2024"
     },
     "link": "http://icml.cc",
-    "location": "Virtual Only"
+    "location": "Vienna, Austria"
   },
   {
     "venue": "IDA",
