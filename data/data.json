@@ -113,15 +113,15 @@
     "venue": "ICANN",
     "venue_long": "International Conference on Artificial Neural Networks",
     "area": "Machine Learning and Brain inspierd computing",
-    "deadline": "03/15/2021 23:59 UTC-7",
+    "deadline": "03/15/2024 23:59 UTC-7",
     "conference_dates": {
-      "start": "09/14/2021",
-      "end": "09/17/2021"
+      "start": "09/17/2024",
+      "end": "09/20/2024"
     },
-    "notification": "05/01/2021",
-    "camera_ready": "06/01/2021",
+    "notification": "06/10/2024",
+    "camera_ready": "06/30/2024",
     "link": "https://e-nns.org/",
-    "location": "Bratislava, Slovakia",
+    "location": "Lugano-Viganello, Switzerland",
     "format": "12 pages, Springer-Verlag Lecture Notes in Computer Science (LNCS), inc. references"
   },
   {
@@ -177,14 +177,14 @@
   {
     "venue": "IJCAI",
     "area": "AI",
-    "abstract_deadline": "01/13/2021 23:59 UTC-12",
-    "deadline": "01/20/2021 23:59 UTC-12",
+    "abstract_deadline": "01/10/2024 23:59 UTC-12",
+    "deadline": "01/17/2024 23:59 UTC-12",
     "conference_dates": {
-      "start": "08/21/2021",
-      "end": "08/26/2021"
+      "start": "08/3/2024",
+      "end": "08/9/2024"
     },
     "link": "https://www.ijcai.org/",
-    "location": "Montreal, Canada"
+    "location": "Jeju, South Korea"
   },
   {
     "venue": "KDD",
