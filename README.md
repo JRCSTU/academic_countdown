@@ -28,9 +28,9 @@ https://jrcstu.github.io/academic_countdown/
     }
     }
     ```
-    * The mandatory parameters are venue, area, and abstract_deadline.
+    * The **mandatory** parameters are **venue**, **area**, and **abstract_deadline**.
     * Update Optional Parameters (if needed):
-    * You can also include optional parameters such as venue_long, link, location, deadline, notification, camera_ready, and conference_dates.
+      * You can also include optional parameters such as venue_long, link, location, deadline, notification, camera_ready, and conference_dates.
     * Date Format:
       
        Ensure that the date and time values follow the specified format: month/day/year hour UTC. For example, "abstract_deadline": "4/19/2024 23:59 UTC-12".
