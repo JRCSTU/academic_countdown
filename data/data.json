@@ -1,17 +1,5 @@
 [
   {
-    "venue": "THIESEL 2024",
-    "area": "Clean Propulsion Powerplants",
-    "abstract_deadline": "01/31/2024 23:59 UTC-10",
-    "deadline": "01/31/2024 23:59 UTC-10",
-    "conference_dates": {
-      "start": "09/10/2024",
-      "end": "09/13/2024"
-    },
-    "link": "https://www.cmt.upv.es/#/thiesel2024/callforpapers",
-    "location": "Valencia, Spain"
-  },
-  {
     "venue": "EPFL",
     "venue_long": "A Conference in Emerging Technologies in Transportation Systems (TRC-30)",
     "abstract_deadline": "04/29/2024 23:59 UTC+2",
@@ -23,17 +11,6 @@
     },
     "link": "https://trc-30.epfl.ch/",
     "location": "Crete, Greece"
-  },
-  {
-    "venue": "TRA",
-    "area": "Transport Transitions: Advancing Sustainable and Inclusive Mobility",
-    "deadline": "10/11/2023 23:59 UTC-10",
-    "conference_dates": {
-      "start": "04/15/2024",
-      "end": "04/18/2024"
-    },
-    "link": "https://traconference.eu/",
-    "location": "Dublin, Ireland"
   },
   {
     "venue": "ECAI",
