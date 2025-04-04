@@ -26,6 +26,19 @@
     "location": "Paris, France"
   },
   {
+    "venue": "TRA2026",
+    "venue_long": "Transport Research Arena",
+    "abstract_deadline": "06/15/2025 23:59 UTC+2",
+    "area": "Regeneration in Transport",
+    "deadline": "15/09/2025 23:59 UTC+2",
+    "conference_dates": {
+      "start": "18/05/2026",
+      "end": "21/05/2026"
+    },
+    "link": "https://www.traconference.eu/",
+    "location": "Budapest, Hungary"
+  },
+  {
     "venue": "WCTR",
     "venue_long": "World Conference on Transport Research",
     "abstract_deadline": "09/01/2025 23:59 UTC+2",
