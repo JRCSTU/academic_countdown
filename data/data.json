@@ -39,31 +39,16 @@
     "location": "Toulouse, France"
   },
   {
-    "venue": "EPFL",
-    "venue_long": "A Conference in Emerging Technologies in Transportation Systems (TRC-30)",
-    "abstract_deadline": "04/29/2024 23:59 UTC+2",
-    "area": "Transport Systems",
-    "deadline": "04/29/2024 23:59 UTC+2",
-    "conference_dates": {
-      "start": "09/02/2024",
-      "end": "09/04/2024"
-    },
-    "link": "https://trc-30.epfl.ch/",
-    "location": "Crete, Greece"
-  },
-  {
     "venue": "ECAI",
     "venue_long": "European Conference on Artificial Intelligence",
+    "abstract_deadline": "04/29/2025 23:59 UTC+2",
     "area": "Artificial Intelligence",
-    "link": "http://ecai2020.eu/",
-    "location": "Santiago de Compostela, Spain",
-    "abstract_deadline": "4/19/2024 23:59 UTC-12",
-    "deadline": "4/25/2024 23:59 UTC-12",
-    "notification": "07/04/2024",
-    "camera_ready": "08/26/2024",
+    "deadline": "05/06/2025 23:59 UTC-12",
     "conference_dates": {
-      "start": "10/19/2024",
-      "end": "10/24/2024"
-    }
+      "start": "10/25/2025",
+      "end": "10/30/2025"
+    },
+     "link": "https://ecai2025.org",
+     "location": "Bologna, Italy",
   }
 ]
